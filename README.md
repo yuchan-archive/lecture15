@@ -1,2 +1,2 @@
-This is lecture15 repository.
+This is a lecture15 repository.
 
